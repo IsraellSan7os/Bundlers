@@ -81,4 +81,3 @@ As seguintes alterações foram feitas no `webpack.config.js`:
 
 - Webpack: https://webpack.js.org/
 - Documentação: guides -> Getting Started -> Basic Setup
-empacotamento
